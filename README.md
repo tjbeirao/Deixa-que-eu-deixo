@@ -19,10 +19,10 @@ Estamos atualmente em processo de votação para definir qual opção será adot
 O fechamento da mensalidade e a reserva das quadras para o próximo mês serão realizados até o dia 15 de cada mês. Por exemplo, para os jogos de dezembro, o fechamento será no dia 15 de novembro e as reservas de quadra serão feitas no dia 16 de novembro.
 
 ## Cancelamento
-* **Antes do fechamento do mês (até o dia 15):** Você pode cancelar sua participação para o mês seguinte e receber reembolso total do valor da mensalidade.
+* **Antes do fechamento do mês (até o dia 15):** Você pode cancelar sua participação para o mês seguinte e receber reembolso total do valor da mensalidade, se pago antecipado.
 * **Após o fechamento do mês (a partir do dia 16):** Não será possível cancelar a mensalidade para o mês seguinte, já que os valores terão sido usados para as reservas de quadras.
 * **Cancelamento no meio do mês:** Não haverá reembolso se o cancelamento ocorrer no meio do mês, pois os valores já terão sido aplicados na reserva das quadras.
-* **Faltas:** Não haverá reembolso para quem faltar ou não estiver presente em um jogo. O valor pago será perdido.
+* **Faltas:** Não haverá reembolso para quem faltar ou não estiver presente em um jogo. O valor pago já foi utilizado para a reserva da quadra.
 * * **Jogos Cancelados ou não marcados:** Se, por algum motivo, não conseguirmos marcar algum jogo, o valor não será reembolsado, mas sim adicionado à caixinha do grupo.
 
 ## Regras de conduta
