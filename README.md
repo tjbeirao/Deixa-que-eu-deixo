@@ -3,7 +3,6 @@
 ## Anuncios
 * **Grupo aberto**: O grupo está aberto. Chamem quantas pessoas quiserem; quanto mais gente, melhores os jogos.
 * **Feedback**: Qualquer feedback é bem-vindo. Por favor, participe.
-* **Jogos Cancelados ou não marcados:** Se, por algum motivo, não conseguirmos marcar algum jogo, o valor não será reembolsado, mas sim adicionado à caixinha do grupo.
 * **Outros Esportes:** Estamos considerando organizar outros esportes além do vôlei. Se você estiver interessado, por favor, entre em contato por mensagem privada.
 
 ## Tickets e Pagamento
@@ -24,6 +23,7 @@ O fechamento da mensalidade e a reserva das quadras para o próximo mês serão 
 * **Após o fechamento do mês (a partir do dia 16):** Não será possível cancelar a mensalidade para o mês seguinte, já que os valores terão sido usados para as reservas de quadras.
 * **Cancelamento no meio do mês:** Não haverá reembolso se o cancelamento ocorrer no meio do mês, pois os valores já terão sido aplicados na reserva das quadras.
 * **Faltas:** Não haverá reembolso para quem faltar ou não estiver presente em um jogo. O valor pago será perdido.
+* * **Jogos Cancelados ou não marcados:** Se, por algum motivo, não conseguirmos marcar algum jogo, o valor não será reembolsado, mas sim adicionado à caixinha do grupo.
 
 ## Regras de conduta
 * **Respeito ao próximo**: Todos os jogadores devem tratar uns aos outros com respeito e consideração, independentemente de habilidade, gênero, raça ou religião.
